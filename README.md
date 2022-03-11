@@ -7,10 +7,6 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/gpiresdev/health-track">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Health Track</h3>
 
   <p align="center">
@@ -22,6 +18,8 @@
 </div>
 
 ## Sobre o Projeto
+
+[![Health Track][product-screenshot]](https://stoic-lumiere-e314d0.netlify.app)
 
 Projeto em desenvolvimento para o curso de Análise e Desenvolvimento de Sistemas da FIAP, o Health Track é uma solução que permite o registro do peso, altura, alimentos ingeridos, entre outros, com objetivo de acompanhar a saúde de seu usuário.
 
